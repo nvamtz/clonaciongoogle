@@ -1,20 +1,20 @@
-# Clonacion de la interfaz de Google con HTML5 y CSS3
-## **Indice**
+# Clonación de la interfaz de Google con HTML5 y CSS3
+## **Índice**
 * [1. Intro](#)
 * [2. Qué construí](#)
 * [3. Objetivo del Proyecto](#)
 * [4. Link a Demo](#)
 ****
  ## 1. Intro
- HTML5 trabaja de la mano con CSS3 para crear paginas web que usamos todos los dias en e navegador. Incluso este sitio web en donde estas viendo este contenido esta construido con HTML y CSS. En este proyecto con los conocimientos de HTML y CSS realice la clonacion de la interfaz de Google. 🧐🤓
+HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador. Incluso este sitio web en donde estás viendo este contenido está construido con HTML y CSS. En este proyecto con los conocimientos de HTML y CSS realice la clonación de la interfaz de Google.  🧐🤓
  
- ## 2. Que construi
+ ## 2. Que construí
  
- En este proyecto me enfoque en construir la clonacion de la interfaz de Google. Contiene las siguientes secciones:
- *  **Header**: Seccion que involucra la foto de mi perfil, iconos y el menù con hhipervinculos.
- * **Main**: Seccion del contenedor para los elementos centrales de la pagina: logo, barra de busqueda, iconos y botones.
- * **Footer**: Seccion que incluye hipervinculos al final de la pagina.
+ En este proyecto me enfoque en construir la clonación de la interfaz de Google. Contiene las siguientes secciones:
+ *  **Header**: Sección que involucra la foto de mi perfil, iconos y el menú con hipervínculos.
+ * **Main**: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
+ * **Footer**: Sección que incluye hipervínculos al final de la página.
  ## 3. Objetivo del proyecto
- Aprender a utilizar las etiquetas estandar de HTML5 y los estilos de CSS3.
+Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
  ## 4. Link a demo
- Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](https://proyecto1-clonaciongoogle-b6a3b6.netlify.app/)
+ Aquí puedes visualizar mi proyecto terminado:  [Clonación de Google](https://proyecto1-clonaciongoogle-b6a3b6.netlify.app/)
